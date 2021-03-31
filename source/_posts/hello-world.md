@@ -1,6 +1,10 @@
 ---
 title: Hello World
 date: 2021-03-27 00:00:00
+categories:
+  - coding
+tags:
+  - hello_world
 ---
 
 Hello. Welcome to my blog!
